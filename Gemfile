@@ -4,6 +4,8 @@ gem 'rails', '3.2.13'
 gem 'devise'
 gem 'simple_form'
 gem "paperclip", "~> 3.0"
+gem 'rmagick'
+ 
 
 group :development do
   gem 'sqlite3', '1.3.5'
